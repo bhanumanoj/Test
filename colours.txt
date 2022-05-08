@@ -7,4 +7,5 @@ orange
 violet
 
 grey
+pink
 
