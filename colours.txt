@@ -5,6 +5,3 @@ yellow
 white
 orange
 violet
-
-pink
-grey
