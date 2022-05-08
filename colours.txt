@@ -8,4 +8,5 @@ violet
 
 grey
 pink
+indigo
 
