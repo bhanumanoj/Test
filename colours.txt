@@ -5,3 +5,10 @@ yellow
 white
 orange
 violet
+grey
+pink
+indigo
+brown
+
+
+
